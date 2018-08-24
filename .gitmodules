@@ -1,0 +1,9 @@
+[submodule "proyecto/lib"]
+	path = proyecto/lib
+	url = https://github.com/Bautistaluis/libs.git
+[submodule "public/libs"]
+	path = public/libs
+	url = https://github.com/Bautistaluis/libs.git
+[submodule "proyecto/libs"]
+	path = proyecto/libs
+	url = https://github.com/Bautistaluis/libs.git

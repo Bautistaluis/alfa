@@ -9,6 +9,7 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" type="text/css" href="/libs/estilo.css">
 
         <!-- Styles -->
         <style>
@@ -46,7 +47,7 @@
             }
 
             .title {
-                font-size: 84px;
+                
             }
 
             .links > a {
@@ -79,7 +80,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel CCEO
                 </div>
 
                 <div class="links">
